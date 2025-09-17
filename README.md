@@ -47,8 +47,8 @@ SEO CrewAI - это интеллектуальная система для ав�
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone <repository-url>
-cd CrewAI_zero
+git clone https://github.com/AI-Rushan/SEO_CrewAI.git
+cd SEO_CrewAI
 ```
 
 2. **Создайте виртуальное окружение:**
